@@ -6,3 +6,12 @@ This code was developed to simulate a Lyapunov Based Controller for orbit transf
 Please see the report within the repository to learn more about the methodology used. 
 
 Thank you for viewing my project! 
+
+## Bibliography
+
+[1] H. Leeghim, D.-H. Cho, S.-J. Jo, and D. Kim, “Generalized Guidance Scheme for Low-Thrust Orbit Transfer,” Mathematical Problems in Engineering, vol. 2014, pp. 1–9, 2014.
+
+[2] D. E. Chang, D. F. Chichka, and J. E. Marsden, “Lyapunov-based transfer between elliptic Keplerian orbits,” Discrete \& Continuous Dynamical Systems - B, vol. 2, no. 1, pp. 57–67, 2002.
+
+[3] Mehrez, M. (2021) 
+MPC and MHE implementation in MATLAB using Casadi  <https://github.com/MMehrez/MPC-and-MHE-implementation-in-MATLAB-using-Casadi>.
